@@ -10,13 +10,15 @@ react+typescript+webpack 前端项目基本框架
 
     npm install
 
-###本地运行
+###开发环境：运行本地服务器
 
 执行
 
     npm start
 
-###编译生成打包js
+运行之后即可访问 http://localhost:8080/
+
+###生产环境：编译打包所有代码
 
 执行
 
