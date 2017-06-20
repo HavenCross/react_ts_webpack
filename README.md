@@ -24,4 +24,4 @@ react+typescript+webpack 前端项目基本框架
 
     npm run build
 
-之后在dist文件夹就会生成压缩混淆后的bundle.js
+之后在dist文件夹就会生成打包后的文件
